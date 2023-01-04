@@ -1,0 +1,3 @@
+[submodule "BookstoreSubrep"]
+	path = BookstoreSubrep
+	url = https://github.com/Kau2021/onlinebookstore.git
